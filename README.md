@@ -1,4 +1,8 @@
 # CS 44N – Graphics Portfolio
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![p5.js](https://img.shields.io/badge/p5.js-creative--coding-pink)
+![GLSL](https://img.shields.io/badge/GLSL-shaders-blue)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-brightgreen)
 
 A selection of creative coding projects developed in **CS 44N: Great Ideas in Graphics** at Stanford.
 
