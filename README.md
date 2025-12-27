@@ -7,12 +7,25 @@
 A selection of creative coding projects developed in **CS 44N: Great Ideas in Graphics** at Stanford.
 
 ---
+## 🌋 Lava Lamp Simulation
+
+  <img
+    src="https://raw.githubusercontent.com/melitasdsouza/cs44n-lava-lamp/main/preview.gif"
+    alt="Lava Lamp Preview"
+    width="600"
+  />
+
+
+- 🔗 **Live demo:** https://melitasdsouza.github.io/cs44n-lava-lamp/
+- 💻 **Code:** https://github.com/melitasdsouza/cs44n-lava-lamp
+- 🧠 Focus: noise-based motion, clipping paths, organic animation
+---
 
 ## 🎆 Fireworks Simulation
 <img
   src="https://raw.githubusercontent.com/melitasdsouza/cs44n-fireworks/main/preview.gif"
   alt="Fireworks Preview"
-  width="500"
+  width="600"
 />
 
 - 🔗 **Live demo:** https://melitasdsouza.github.io/cs44n-fireworks/
@@ -25,7 +38,7 @@ A selection of creative coding projects developed in **CS 44N: Great Ideas in Gr
 <img
   src="https://raw.githubusercontent.com/melitasdsouza/cs44n-rotating-smileys/main/preview.gif"
   alt="Smiles Preview"
-  width="500"
+  width="600"
 />
 
 
