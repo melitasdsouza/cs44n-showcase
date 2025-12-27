@@ -5,7 +5,11 @@ A selection of creative coding projects developed in **CS 44N: Great Ideas in Gr
 ---
 
 ## 🎆 Fireworks Simulation
-![Fireworks Preview](https://raw.githubusercontent.com/melitasdsouza/cs44n-fireworks/main/preview.gif)
+<img
+  src="https://raw.githubusercontent.com/melitasdsouza/cs44n-fireworks/main/preview.gif"
+  alt="Fireworks Preview"
+  width="500"
+/>
 
 - 🔗 **Live demo:** https://melitasdsouza.github.io/cs44n-fireworks/
 - 💻 **Code:** https://github.com/melitasdsouza/cs44n-fireworks
@@ -14,7 +18,12 @@ A selection of creative coding projects developed in **CS 44N: Great Ideas in Gr
 ---
 
 ## 🙂 Rotating Smiley Grid
-![Smiley Preview](https://raw.githubusercontent.com/melitasdsouza/cs44n-rotating-smileys/main/preview.gif)
+<img
+  src="https://raw.githubusercontent.com/melitasdsouza/cs44n-rotating-smileys/main/preview.gif"
+  alt="Smiles Preview"
+  width="500"
+/>
+
 
 - 🔗 **Live demo:** https://melitasdsouza.github.io/cs44n-rotating-smileys/
 - 💻 **Code:** https://github.com/melitasdsouza/cs44n-rotating-smileys
